@@ -1,7 +1,6 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { movies } from "../data";
 import { Spin } from "antd";
-import { Navbar } from "react-bootstrap";
 import Filter from "../components/Filter";
 import CreateNewMovie from "../components/CreateNewMovie";
 import MovieList from "../components/MovieList";
