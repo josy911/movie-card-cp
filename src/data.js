@@ -7,6 +7,7 @@ export const movies = [
     posterUrl:
       "https://cdn.moviefone.com/image-assets/1104040/nGwFsB6EXUCr21wzPgtP5juZPSv.jpg?d=360x540&q=60",
     rating: 5,
+    trailer: "https://www.youtube.com/watch?v=xOl6sSQJ-M0&t=13s",
   },
   {
     id: "2",
@@ -16,6 +17,7 @@ export const movies = [
     posterUrl:
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOC4FfG26jkZLrW3W1p3k4pHzeVog97BnkYON5MTBwpix06RsAXF4gbcAonR7IpzUZ12jj5nSA5PM4fLmA8PYywzJ95YlmbPHvStJ7o5nxyyk2c2lqsDBLP3QlwErw9rn1qFg0ReME0UXkc1vHejqQ9uCXXk29ShNIt7eHGiofL9zQxBj657mw9Jxw/w1200-h630-p-k-no-nu/1672411047422.jpg",
     rating: 4,
+    trailer: "https://www.youtube.com/watch?v=h-DMWZqjVB8",
   },
   {
     id: "3",
@@ -25,6 +27,7 @@ export const movies = [
     posterUrl:
       "https://th.bing.com/th/id/OIP.n2_zQC5wSQ2AcjktLizOUQAAAA?rs=1&pid=ImgDetMain",
     rating: 3,
+    trailer: "https://www.youtube.com/watch?v=JmONR-xFsVc",
   },
   {
     id: "4",
@@ -34,6 +37,7 @@ export const movies = [
     posterUrl:
       "https://th.bing.com/th/id/OIP.alYkkO0X77gCBO2WUdlSWgHaLH?rs=1&pid=ImgDetMain",
     rating: 2,
+    trailer: "https://www.youtube.com/watch?v=hXIX88SqZDs",
   },
   {
     id: "5",
@@ -43,5 +47,6 @@ export const movies = [
     posterUrl:
       "https://th.bing.com/th/id/OIP.KIrCVhlxC1BRtztkQXalxwHaJQ?rs=1&pid=ImgDetMain",
     rating: 1,
+    trailer: "https://www.youtube.com/watch?v=rXIKrHPaB-o",
   },
 ];
